@@ -1,0 +1,17 @@
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\bin\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.exe
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\bin\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.deps.json
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\bin\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.runtimeconfig.json
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\bin\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.dll
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\bin\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.pdb
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.csproj.AssemblyReference.cache
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.SalasanaForm.resources
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.csproj.GenerateResource.cache
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.GeneratedMSBuildEditorConfig.editorconfig
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.AssemblyInfoInputs.cache
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.AssemblyInfo.cs
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.csproj.CoreCompileInputs.cache
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.dll
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\refint\Harjoitus6_NiklasVuorio.dll
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.pdb
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\Harjoitus6_NiklasVuorio.genruntimeconfig.cache
+G:\MVS2022\source\repos\Harjoitus6_NiklasVuorio\Harjoitus6_NiklasVuorio\obj\Debug\net6.0-windows\ref\Harjoitus6_NiklasVuorio.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3SnpF1xkeCNT65d0FzJHKBVdOnX4B7fIVhRek1OuR8YxFF9+6x7Vq+ct8oF16MGf/BAFXRMsRjSOjELk+X6YA==",
+  "success": true,
+  "projectFilePath": "G:\\MVS2022\\source\\repos\\Harjoitus19_NiklasVuorio\\Harjoitus19_NiklasVuorio\\Harjoitus19_NiklasVuorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikla\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
